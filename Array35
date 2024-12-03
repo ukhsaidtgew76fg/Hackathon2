@@ -1,6 +1,6 @@
 int searchInsert(int *nums,int numsize,int target)
 {
-    //Binary Search 
+
     int l=0;
     int h=numsize-1;
     while(l<=h)
